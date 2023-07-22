@@ -22,7 +22,7 @@ To use this file copy it to your /lib/active_merchant/billing/ folder.
 Documentation
 --------------------------------------------------------------------------------
 Reach Checkout API Guide:
-### https://docs.withreach.com/display/PUB/Checkout+API+Specification?preview=/6848691/22806616/GoInterpayCheckoutAPIGuide-v2r019.pdf
+### https://docs.withreach.com/docs
 
 Copyright & Licensing
 --------------------------------------------------------------------------------
